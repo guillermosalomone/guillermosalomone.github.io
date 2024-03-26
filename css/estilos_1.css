@@ -1,0 +1,19 @@
+/* Comentario
+selector {
+    propiedad: valor/es;
+} 
+*/
+
+p {
+    background-color: goldenrod;
+}
+/* centrado */
+h1 { 
+    text-align:center; 
+    background: aquamarine;
+    padding: 2%;
+    margin: 10%;
+    border: 1px solid ;
+    border-color: rgb(255, 0, 76);
+    border-radius: 10px;
+}
