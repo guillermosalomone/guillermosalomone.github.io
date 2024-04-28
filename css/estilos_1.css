@@ -1,3 +1,6 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Workbench&display=swap');
+
 /* Comentario
 selector {
     propiedad: valor/es;
@@ -16,4 +19,14 @@ h1 {
     border: 1px solid ;
     border-color: rgb(255, 0, 76);
     border-radius: 10px;
+}
+h3 {
+    
+    font-family: "Workbench", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: italic;
+    font-variation-settings:
+      "BLED" 14,
+      "SCAN" -10;
 }

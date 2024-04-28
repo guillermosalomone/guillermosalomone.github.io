@@ -5,17 +5,25 @@
 * {
     background-color: black;
     color: whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-
+/* 
+h2 = todos los h2 
+*/
 h2 {
     color: yellow;
     border: 1px solid lightcoral;
+    font-style: italic;
 }
-
+/* 
+solo la clase  textosDistintos
+*/
 .textosDistintos {
     background-color: blue;
 }
-
+/* 
+solo el id  unicoSubtituloDistinto
+*/
 #unicoSubtituloDistinto {
     color: lightsalmon;
 }
